@@ -1,10 +1,6 @@
 ## Hi there 👋
 
 ---
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardaCCampos&layout=compact&theme=dracula&hide_border=true" alt="Most Used Languages" />
-</div>
-<br>
 
 <div align="left">
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
